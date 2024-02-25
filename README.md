@@ -18,9 +18,8 @@
 <p>I learned to validate form as well as to passing data to component elements as per the request which helped me to understand</p>
 
 
+<h1>ScreenShot</h1>![Screenshot (67)](https://github.com/MohamedNihmath18/React-Formik-Task/assets/106542888/2625a367-2847-4646-91b0-12699ba7fb39)
 
-## Website
-<a href="https://react-formik-task-fsd.netlify.app/" target="_blank">Preview</a>
 
 ## Setup
 <p>Following are the requirements to run this project:</p>
